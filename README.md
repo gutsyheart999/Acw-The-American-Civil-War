@@ -194,3 +194,6 @@ This repository serves as the official landing page for **ACW: The American Civi
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Download the most recent version of ACW: The American Civil War today!**
+
+---
+**Last updated:** 2026-11-07 16:01:17 UTC
