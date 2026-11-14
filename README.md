@@ -196,4 +196,4 @@ This repository serves as the official landing page for **ACW: The American Civi
 **Download the most recent version of ACW: The American Civil War today!**
 
 ---
-**Last updated:** 2026-11-14 14:42:10 UTC
+**Last updated:** 2026-11-14 19:38:58 UTC
